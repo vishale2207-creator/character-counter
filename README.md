@@ -6,7 +6,7 @@ This project is built using HTML, CSS, and JavaScript with a clean user interfac
 
 ### Project Links
 
-**Live Website:** [Add your live website link here]
+**Live Website:** [https://vishale2207-creator.github.io/character-counter/]
 
 **GitHub Repository:** [Add your GitHub repository link here]
 
